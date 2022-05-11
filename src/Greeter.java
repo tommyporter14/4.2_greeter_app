@@ -15,6 +15,10 @@ public class Greeter {
 	}
 	
 	//constructor
+	public Greeter() {
+		
+	}
+	
 	public Greeter(String greeting) {
 		this.greeting = greeting;
 	}
